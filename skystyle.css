@@ -1,0 +1,40 @@
+.btn-blue {
+    background-color: #02122c;
+}
+.bg-blue{
+    background-color: #02122c;
+}
+.bg-gray {
+    background-color: #dddde5;
+}
+.btn-gray {
+    background-color: #dddde5;
+}
+
+.fs-8 {
+    font-size:  12px;
+}
+
+.flightImg {
+    background-image:url(images/beach0.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 5px;
+}
+.bgsmImg {
+    background-image:url(images/beach6.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 5px;
+}
+.btn-green {
+    background-color: #00a698;
+}
+
+.bg-sm-blue {
+    background-color: #042759;
+}
+
+.text-orange {
+    color: #ff7b59;
+}
